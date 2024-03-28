@@ -1,5 +1,7 @@
 # Suman Kumar Portfolio
+<img src="https://github.com/VIB3SFR0MEYES/Resources_Vib3s/blob/main/SUman.jpeg" alt="VIB3SFR0MEYES" width="600" style="vertical-align: bottom;">
 To view a live demo, [click here](https://vib3sfr0meyes.github.io/).
+
 ## Features
 
 * Gulp ready (compiles Sass and minifies JS)
