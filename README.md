@@ -1,5 +1,5 @@
 # Suman Kumar Portfolio
-To view a live demo, [click here](https://ryanfitzgerald.github.io/devportfolio/).
+To view a live demo, [click here](https://vib3sfr0meyes.github.io/).
 ## Features
 
 * Gulp ready (compiles Sass and minifies JS)
